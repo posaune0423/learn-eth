@@ -1,2 +1,2 @@
-# learn_solidity
-A repository for learning solidity
+# learn-eth
+A repository for learning Ethereum
